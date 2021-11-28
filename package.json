@@ -115,7 +115,7 @@
     "cookie": "^0.4.1"
   },
   "devDependencies": {
-    "@swc/core": "^1.2.107",
+    "@swc/core": "1.2.113",
     "@swc/jest": "0.2.5",
     "@tsconfig/node12": "1.0.9",
     "@types/jest": "27.0.2",
